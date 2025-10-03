@@ -1,7 +1,7 @@
 # 你好，这里是 然飞 - Ranfey
 
 <table><tr>
-  <td style="vertical-align: top; padding-right: 20px; min-width: 300px;">
+  <td style="vertical-align: top; padding-right: 20px; min-width: 500px;">
     <p>ACGN重度依赖患者</p>
     <p>一个玩各类移动端音游和街机音游的菜鸡(>_<)</p>
     <p>也许节假日会刷新在vrc跳舞的闭麦怪人(?)</p>
