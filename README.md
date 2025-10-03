@@ -1,7 +1,7 @@
 # 你好，这里是 然飞 - Ranfey
 
 <table><tr>
-  <td style="vertical-align: top; padding-right: 20px; min-width: 500px;">
+  <td style="vertical-align: top; padding-right: 100px; min-width: 500px;">
     <p>ACGN重度依赖患者</p>
     <p>一个玩各类移动端音游和街机音游的菜鸡(>_<)</p>
     <p>也许节假日会刷新在vrc跳舞的闭麦怪人(?)</p>
@@ -12,7 +12,7 @@
     <p>喜欢 CTF ，是WEB手</p>
     <p>会写写 WEB 和 bot</p>
   </td>
-  <td style="vertical-align: top; min-width: 400px;">
+  <td style="vertical-align: top; min-width: 430px;">
     <h3>💻 编程语言</h3>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
