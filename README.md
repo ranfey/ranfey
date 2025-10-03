@@ -1,7 +1,7 @@
 # 你好，这里是 然飞 - Ranfey
 
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px;">
+<table><tr>
+  <td valign="top" style="border: none; vertical-align: top; padding-right: 100px; min-width: 500px;">
     <p>ACGN重度依赖患者</p>
     <p>一个玩各类移动端音游和街机音游的菜鸡(>_<)</p>
     <p>也许节假日会刷新在vrc跳舞的闭麦怪人(?)</p>
@@ -11,8 +11,8 @@
     <p>目前主要研究智能车辆 PNC (感知也会些就是了)</p>
     <p>喜欢 CTF ，是WEB手</p>
     <p>会写写 WEB 和 bot</p>
-  </div>
-  <div style="flex: 1;">
+  </td>
+  <td valign="top" style="border: none; vertical-align: top; min-width: 430px;">
     <h3>💻 编程语言</h3>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
@@ -44,8 +44,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42" height="42"/>
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" height="42"/>
     </p>
-    </div>
-</div>
+    </td></tr>
+</table>
 <div align="center">
     <picture>
         <source media="(max-width: 767px)" srcset="./github-metrics.svg" width="100%">
