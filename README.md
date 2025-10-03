@@ -9,7 +9,7 @@
     <p>· <em>只是觉得女孩子之间真是好啊</em>               |</p>
     <p>· 人际上主张和平共处，求同存异（*＾-＾*） </p>
     <p>· 目前主要研究智能车辆 PNC (感知也会些就是了)--------|</p>
-    <p>· 喜欢 CTF ，是WEB手              |</p>
+    <p>· 喜欢 CTF ，是WEB手-----------------------------|</p>
     <p>· 会写写 WEB 和 bot              |</p>
   </td>
   <td valign="top" style="border: none; vertical-align: top; min-width: 430px;">
@@ -56,4 +56,3 @@
             <img src="./yukiyuki.png" alt="yukiyuki" width="48%" align="top">
     </picture>
 </div>
-
