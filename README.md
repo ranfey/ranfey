@@ -2,15 +2,15 @@
 
 <table><tr>
   <td valign="top" style="border: none; vertical-align: top; padding-right: 100px; min-width: 500px;">
-    <p>ACGN重度依赖患者</p>
-    <p>一个玩各类移动端音游和街机音游的菜鸡(>_<)</p>
-    <p>也许节假日会刷新在vrc跳舞的闭麦怪人(?)</p>
-    <p><em>最喜欢可爱和好吃的东西</em> !</p>
-    <p><em>只是觉得女孩子之间真是好啊</em></p>
-    <p>人际上主张和平共处，求同存异（*＾-＾*）</p>
-    <p>目前主要研究智能车辆 PNC (感知也会些就是了)</p>
-    <p>喜欢 CTF ，是WEB手</p>
-    <p>会写写 WEB 和 bot</p>
+    <p>· ACGN重度依赖患者</p>
+    <p>· 一个玩各类移动端音游和街机音游的菜鸡(>_<)          </p>
+    <p>· 也许节假日会刷新在vrc跳舞的闭麦怪人(?) </p>
+    <p>· <em>最喜欢可爱和好吃的东西</em> ! </p>
+    <p>· <em>只是觉得女孩子之间真是好啊</em> </p>
+    <p>· 人际上主张和平共处，求同存异（*＾-＾*） </p>
+    <p>· 目前主要研究智能车辆 PNC (感知也会些就是了)        </p>
+    <p>· 喜欢 CTF ，是WEB手</p>
+    <p>· 会写写 WEB 和 bot</p>
   </td>
   <td valign="top" style="border: none; vertical-align: top; min-width: 430px;">
     <h3>💻 编程语言</h3>
