@@ -33,8 +33,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42"/>
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42" height="42"/>
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42"/>
+      <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" width="42" height="42"/>
+      <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="42" height="42"/>
     </p>
     <h3>🛠️ 工具 & 数据库</h3>
     <p>
